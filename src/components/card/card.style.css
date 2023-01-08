@@ -1,0 +1,31 @@
+.card-container {
+    display: flex;
+    flex-direction: column;
+    background-color: #88B2CC;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 7px;
+    padding: 29px;
+    cursor: pointer;
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+    margin: 15px;
+    justify-content: center; 
+    width:20%;
+    height: 170px;
+    
+  }
+  
+  .card-container:hover {
+    transform: scale(1.05);
+    color: red;
+  
+ }
+  .carcolor {
+    background-color: #E7D4C0;
+    padding: 3px;
+    margin: 12px;
+    border-radius: 10px;
+  }
+  

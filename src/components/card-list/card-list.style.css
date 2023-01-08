@@ -1,0 +1,12 @@
+.card-list {
+    padding: 23px;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center; 
+    align-items: baseline;
+    
+  }
+  
+  
