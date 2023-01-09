@@ -38,7 +38,7 @@ function App() {
         <h1 className='baslik'>Mitsubishi Motors</h1>
         <input className='search'
         onChange={onSearchChange}
-        placeholder='search data'
+        placeholder='search model'
       />
         </div>
       <Cardlist filteredData= {filteredData}/>
